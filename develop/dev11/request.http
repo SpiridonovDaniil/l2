@@ -1,0 +1,31 @@
+
+POST http://localhost:8080/create_event
+Content-Type: application/x-www-form-urlencoded
+
+name=okk&user_id=2&date=2019-09-09
+
+###
+
+POST http://localhost:8080/update_event
+Content-Type: application/x-www-form-urlencoded
+
+old_name=okk&user_id=2&new_name=wb&new_date=2001-01-01
+
+###
+
+POST http://localhost:8080/delete_event
+Content-Type: application/x-www-form-urlencoded
+
+name=okk&user_id=2
+
+###
+
+GET http://localhost:8080/events_for_day?date=2019-09-09&user_id=2
+
+###
+
+GET http://localhost:8080/events_for_week?date=2019-09-07&user_id=2
+
+###
+
+GET http://localhost:8080/events_for_month?date=2019-08-30&user_id=2

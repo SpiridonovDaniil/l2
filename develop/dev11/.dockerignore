@@ -1,0 +1,4 @@
+docker/
+docker-compose
+.idea
+.git

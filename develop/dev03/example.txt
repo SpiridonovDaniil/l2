@@ -1,0 +1,27 @@
+hello world!
+1 your name
+2002-09-11faewf trg
+2 your age
+1 2 3
+2001.11.11 rt
+2001.11.11 rt
+12 56 34
+12 34 56
+2001-dec-01 trg
+march trg
+a b c d
+123 sf
+rg2003.08.01rge trg
+а б в г
+( привет )
+1 2 3
+February к
+2000/07/11 sefpm
+проект г
+2000/JAN/11 rtg
+ну погоди!
+проект а
+2000/NOV/22hi rtg
+ 123 sf
+2000-06-01 trgr
+    test   space
